@@ -11,7 +11,7 @@ const handleClick = (element) => {
   if(!document.getElementById(element.id).innerHTML){
     addMarker(element.id)
   }
-}
+} 
 
 
 
